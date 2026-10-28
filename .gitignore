@@ -1,0 +1,15 @@
+# Datos privados
+.env
+.env.*
+!.env.example
+
+# Dependencias de Composer
+/vendor/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Copias de seguridad
+*.bak
+*.old
